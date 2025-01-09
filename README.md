@@ -1,6 +1,6 @@
 ###### About Me
 
-I’m David, a student at CodeCrypto Academy. My focus is on building real-world applications with **decentralized solutions** that deliver tangible value.
+I am a Data Engineer with experience in managing and transforming large volumes of information. I am currently in training as a Blockchain developer, with the aim of creating innovative and effective applications. My passion is transforming data into value through solutions that enhance the use of Machine Learning, allowing for smarter and more accurate decisions. I am always looking for new challenges that allow me to combine my data and blockchain skills to offer cutting-edge technological solutions.
 
 ##### CodeCrypto Academy Progress
 - [https://github.com/codecrypto-academy/github-username](https://github.com/codecrypto-academy/peerreez)
