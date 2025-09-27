@@ -24,14 +24,12 @@ Here are some of my notable projects:
 - **[bank-etl](https://github.com/peerreez/bank-etl)** – An ETL project for integrating banking data.
 
 ---
-
 ## 📬 Contact Me
 
 Feel free to reach out to me via:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/peerreez](https://www.linkedin.com/in/peerreez)
-
+- Email: [dperezsx@gmail.com](mailto:dperezsx@gmail.com)
+- LinkedIn: [linkedin.com/in/david-p%C3%A9rez-s%C3%A1nchez-web3](https://www.linkedin.com/in/david-p%C3%A9rez-s%C3%A1nchez-web3/)
 ---
 
 Thank you for visiting my profile! I'm open to collaborations, interesting projects, and new opportunities in the fields of data and blockchain.
