@@ -1,9 +1,42 @@
-###### About Me
+# 👋 Hi there! I'm Peerreez
 
-I am a Data Engineer with experience in managing and transforming large volumes of information. I am currently in training as a Blockchain developer, with the aim of creating innovative and effective applications. My passion is transforming data into value through solutions that enhance the use of Machine Learning, allowing for smarter and more accurate decisions. I am always looking for new challenges that allow me to combine my data and blockchain skills to offer cutting-edge technological solutions.
+I'm a **Data Engineer** with experience in managing and transforming large volumes of information. Currently, I'm training as a **Blockchain Developer**, aiming to create innovative and effective applications. My passion lies in transforming data into value through solutions that enhance the use of **Machine Learning**, enabling smarter and more accurate decisions. I'm always seeking new challenges that allow me to combine my data and blockchain skills to offer cutting-edge technological solutions.
 
-##### CodeCrypto Academy Progress
-- [https://github.com/codecrypto-academy/github-username](https://github.com/codecrypto-academy/peerreez)
+---
+
+## 🎓 CodeCrypto Academy Progress
+
+I'm currently enrolled in the **CodeCrypto Academy**, where I'm gaining advanced knowledge in blockchain development. You can follow my progress here:
+
+👉 [CodeCrypto Academy Progress](https://github.com/codecrypto-academy/peerreez)
+
+
+
+## 🚀 Featured Projects
+
+Here are some of my notable projects:
+
+- **[DeFI](https://github.com/peerreez/DeFI)** – A decentralized finance application developed with JavaScript.  
+- **[lottery](https://github.com/peerreez/lottery)** – A blockchain-based lottery application.  
+- **[pipeline-airflow-kafka-spark-python](https://github.com/peerreez/pipeline-airflow-kafka-spark-python)** – A data pipeline utilizing Airflow, Kafka, Spark, and Python.  
+- **[besu-control-panel-admin-user](https://github.com/peerreez/besu-control-panel-admin-user)** – An administration panel for managing the Besu network.  
+- **[llm-ticket-evaluation](https://github.com/peerreez/llm-ticket-evaluation)** – A Python project for ticket evaluation using LLMs.  
+- **[bank-etl](https://github.com/peerreez/bank-etl)** – An ETL project for integrating banking data.
+
+---
+
+## 📬 Contact Me
+
+Feel free to reach out to me via:
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [linkedin.com/in/peerreez](https://www.linkedin.com/in/peerreez)
+
+---
+
+Thank you for visiting my profile! I'm open to collaborations, interesting projects, and new opportunities in the fields of data and blockchain.
+
+---
 
 ## 🛠️ Skills & Tools
 
@@ -27,5 +60,7 @@ I am a Data Engineer with experience in managing and transforming large volumes 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) 
 [![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/use/fabric) 
 [![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remix.ethereum.org/) 
-[![Hardhat](https://img.shields.io/badge/Hardhat-FFF200?style=for-the-badge&logo=hardhat&logoColor=black&logo=https%3A%2F%2Fmiro.medium.com%2Fv2%2F0%2F-B8dzddK9QVUrV5_.png)](https://hardhat.org/) 
-[![Foundry](https://img.shields.io/badge/Foundry-522A5C?style=for-the-badge&logo=foundry&logoColor=white&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99892494%3Fs%3D280%26v%3D4)](https://book.getfoundry.sh/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-FFF200?style=for-the-badge&logo=hardhat&logoColor=black)](https://hardhat.org/) 
+[![Foundry](https://img.shields.io/badge/Foundry-522A5C?style=for-the-badge&logo=foundry&logoColor=white)](https://book.getfoundry.sh/)
+
+---
