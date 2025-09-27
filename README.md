@@ -29,7 +29,7 @@ Here are some of my notable projects:
 Feel free to reach out to me via:
 
 - Email: [dperezsx@gmail.com](mailto:dperezsx@gmail.com)
-- LinkedIn: [linkedin.com/in/david-p%C3%A9rez-s%C3%A1nchez-web3](https://www.linkedin.com/in/david-p%C3%A9rez-s%C3%A1nchez-web3/)
+- LinkedIn: [www.linkedin.com/in/david-pérez-sánchez-web3](https://www.linkedin.com/in/david-pérez-sánchez-web3/)
 ---
 
 Thank you for visiting my profile! I'm open to collaborations, interesting projects, and new opportunities in the fields of data and blockchain.
